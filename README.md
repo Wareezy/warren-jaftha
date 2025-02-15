@@ -62,15 +62,15 @@ Below is a screenshot demonstrating the application's interface:
 
 - General look of the to-do list.
 
-![Application Screenshot](images/screenshot_1.jpg)
+![Application Screenshot](images/screenshot_1.png)
 
 - When adding values into the to-do list.
 
-![Application Screenshot](images/screenshot_2.jpg)
+![Application Screenshot](images/screenshot_2.png)
 
 - When you complete tasks with the to-do list.
 
-![Application Screenshot](images/screenshot_3.jpg)
+![Application Screenshot](images/screenshot_3.png)
 
 - When you delete a task from the to-do list.
 
